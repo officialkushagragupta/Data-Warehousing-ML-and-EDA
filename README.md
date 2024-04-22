@@ -12,9 +12,6 @@ This project was conducted under the internship at Neural Info Solutions, PVT. L
 2. Develop a strategic plan detailing the methodology for integrating and analyzing the data to predict hourly stock levels, focusing on machine learning techniques suitable for time-series forecasting.
 3. Summarize the data selection rationale and analytical approach in a concise, business-oriented PowerPoint slide for review by the Data Science team leader and the client.
 
-*for ex.*
-![image](https://github.com/officialkushagragupta/Data-Warehousing-ML-and-EDA/assets/96885711/49bb41cd-70f2-4771-bc2c-a9684ce24e20)
-
 
 # Data Model Diagram:
 
